@@ -49,9 +49,9 @@ $active_group = 'default';
 $query_builder = TRUE;
 
     $db['default']['hostname'] = 'localhost';
-    $db['default']['username'] = 'uqti996z_beautycorner';
+    $db['default']['username'] = 'n1573022_beautycorner';
     $db['default']['password'] = 'db@beautycorner';
-    $db['default']['database'] = 'uqti996z_beautycorner';
+    $db['default']['database'] = 'n1573022_beautycorner';
     $db['default']['dbdriver'] = 'mysqli';
     $db['default']['dbprefix'] = '';
     $db['default']['pconnect'] = TRUE;
