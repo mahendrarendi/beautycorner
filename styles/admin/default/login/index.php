@@ -45,8 +45,8 @@ no-repeat center center fixed; background-size: cover;
                         });
                     </script>
 	
-	<H1><font color="#000000">APLIKASI KONSULTASI 
-	             <br>SM SKINCARE</font></H1>
+	<H1><font color="#000000">APLIKASI KLINIK KECANTIKAN
+	             <br>BEAUTYCORNER</font></H1>
                     <?php echo form_open(false, 'class="login-form fade-in-effect"') ?>
                     <div class="login-header">
                         <a href="<?php echo site_url() ?>" class="logo">
