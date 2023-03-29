@@ -107,7 +107,7 @@
                     <i class=" pe-7s-help2"></i>
                 </div>
                 <div class="still_hq_heading">
-                    <h2>Masih belum beruntung? Kami dapat membantu!</h2>
+                    <h2>Masih belum cakep ? Ya memang anda jelek</h2>
                     <p>Hubungi kami dan kami akan segera menghubungi Anda</p>
                 </div>
                 <div class="ask_a_Question_button">
