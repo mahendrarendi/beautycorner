@@ -88,7 +88,7 @@
                     </div>
                     <div class="col-md-4">
                         <div class="made_by_text text-right">
-                            <p><?php echo config('copyright') ?> Powered BY <i class="fa fa-heart powered"></i> by <a href="">Programmer</a></p>
+                            <p><?php echo config('copyright') ?> Powered BY <i class="fa fa-heart powered"></i> by <a href="">beautycorner</a></p>
                         </div>
                     </div>
                 </div> 

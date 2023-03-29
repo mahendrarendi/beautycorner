@@ -177,7 +177,7 @@
 
                     <div class="footer-inner">
                         <div class="footer-text">
-                            <strong><a href="">Powered BY Programmer</a></strong>.
+                            <strong><a href="">Powered BY beautycorner</a></strong>.
                         </div>
                         <div class="go-up">
                             <a href="#" rel="go-top">
