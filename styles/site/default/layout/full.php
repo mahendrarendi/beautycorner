@@ -9,11 +9,11 @@
         <meta name="description" content="<?php echo config('meta_description') ?>">
        	<link rel="shortcut icon" href="<?php echo site_url() ?>/cdn/about/<?php echo config('favicon') ?>" type="image/x-icon">
         <?php if (config('direction') == 'ltr'): ?>
-            <link rel="stylesheet" href="<?php echo STYLE_CSS ?>/style.css" type="text/css">
+            <!-- <link rel="stylesheet" href="<?php echo STYLE_CSS ?>/style.css" type="text/css"> -->
         <?php else: ?>
-            <link rel="stylesheet" href="<?php echo STYLE_CSS ?>/style-ar.css" type="text/css">
+            <!-- <link rel="stylesheet" href="<?php echo STYLE_CSS ?>/style-ar.css" type="text/css"> -->
         <?php endif ?>
-        <script src='https://www.google.com/recaptcha/api.js'></script>
+        <!-- <script src='https://www.google.com/recaptcha/api.js'></script> -->
     </head>
 
     <body>
@@ -186,12 +186,12 @@
         <?php endif ?>
 
         <!-- ============= All JS ============= -->
-        <script> var site_url = '<?php echo site_url() ?>';</script>
+        <!-- <script> var site_url = '<?php echo site_url() ?>';</script>
         <script src="<?php echo STYLE_JS ?>/jquery-2.2.4.min.js"></script>
         <script src="<?php echo STYLE_JS ?>/bootstrap.js"></script>
         <script src="<?php echo STYLE_JS ?>/plugins.js"></script>
         <script src="<?php echo STYLE_JS ?>/jquery-printme.min.js"></script>
         <script src="<?php echo STYLE_JS ?>/switcher.js"></script>
-        <script src="<?php echo STYLE_JS ?>/custom.js"></script>
+        <script src="<?php echo STYLE_JS ?>/custom.js"></script> -->
     </body>
 </html>
