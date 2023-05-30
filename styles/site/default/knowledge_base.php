@@ -102,8 +102,8 @@
                     <i class=" pe-7s-help2"></i>
                 </div>
                 <div class="still_hq_heading">
-                    <h2>Masih belum cakep ? Ya memang anda jelek !</h2>
-                    <p>Hubungi kami dan kami akan segera menghubungi Anda</p>
+                    <h2>Merasa belum pede dengan penampilan anda?</h2>
+                    <p>Segera Hubungi Kami</p>
                 </div>
                 <div class="ask_a_Question_button">
                     <?php if (!(user())): ?>
