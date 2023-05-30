@@ -40,7 +40,7 @@
                                     <li><a href="<?php echo site_url() ?>"><i class="fa fa-home" aria-hidden="true"></i>&nbsp;Home</a></li>
                                     <li><a href="<?php echo site_url('knowledge_base') ?>"><i class="fa fa-book" aria-hidden="true"></i>&nbsp;Topik</a></li>
                                     <li><a href="<?php echo site_url('home/contact') ?>"><i class="fa fa-phone-square" aria-hidden="true"></i>&nbsp;Contact</a></li>
-                                    <li><a href="<?php echo site_url('home/contact') ?>"><i class="fa fa-shopping-cart" aria-hidden="true"></i>&nbsp;Keranjang</a></li>
+                                    <li><a href="https://www.ygfamily.com/artist/main.asp?LANGDIV=K&ATYPE=2&ARTIDX=70"><i class="fa fa-shopping-cart" aria-hidden="true"></i>&nbsp;Keranjang</a></li>
                                     <li><a href="<?php echo site_url('home/contact') ?>"><i class="bi bi-file-earmark" aria-hidden="true"></i>&nbsp;Artikel</a></li>
                                 </ul>
                             </nav>
